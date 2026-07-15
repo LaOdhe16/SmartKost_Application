@@ -129,7 +129,7 @@ lib/
 
 Aplikasi sudah tersedia dalam bentuk APK release yang siap diinstal di perangkat Android:
 
-**[⬇️ Download app-release.zip](../../releases)** — ekstrak berkas zip untuk mendapatkan `app-release.apk`, lalu instal di HP Android Anda.
+**[⬇️ Download app-release.zip](https://github.com/LaOdhe16/SmartKost_Application/blob/main/app-release.zip)** — ekstrak berkas zip untuk mendapatkan `app-release.apk`, lalu instal di HP Android Anda.
 
 > ⚠️ Karena APK ini tidak diunduh dari Google Play Store, Android akan meminta izin **"Izinkan instalasi dari sumber tidak dikenal"** saat pertama kali membuka berkasnya — aktifkan izin tersebut untuk melanjutkan instalasi.
 
