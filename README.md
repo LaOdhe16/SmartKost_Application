@@ -121,20 +121,6 @@ lib/
 
 ---
 
-## 📸 Tangkapan Layar
-
-<div align="center">
-
-| Login | Dasbor Admin | Detail Kamar |
-|---|---|---|
-| *(tempel screenshot di sini)* | *(tempel screenshot di sini)* | *(tempel screenshot di sini)* |
-
-| Dasbor Penghuni | Papan Tagihan | Laporan Keuangan |
-|---|---|---|
-| *(tempel screenshot di sini)* | *(tempel screenshot di sini)* | *(tempel screenshot di sini)* |
-
-</div>
-
 > 💡 Ganti baris di atas dengan gambar sungguhan. Upload screenshot ke folder `screenshots/` pada repo, lalu ganti teks *(tempel screenshot di sini)* dengan `![nama](screenshots/nama-file.png)`.
 
 ---
